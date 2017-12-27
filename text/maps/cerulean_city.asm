@@ -2,70 +2,60 @@ _CeruleanCityText_19668::
 	text "<RIVAL>: Yo!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
-
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
-
-	para "Here, let me see"
-	line "what you caught,"
-	cont "<PLAYER>!"
+	para "Man youre bitch"
+	line "ass is still back"
+	cont "here?WHAT A"
+	cont "PUSSY!Dude Im"
+	cont "gon' whip your"
+	cont "fucking ass!Then"
+	cont "ill become the"
+	cont "champ and OAK"
+	cont "will kill you!"
 	done
 
 _CeruleanCityText_1966d::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "Woho settle"
+	line "down there i"
+	cont "was kiddin"
 	prompt
 
 _CeruleanCityText_19672::
 	text "Heh!"
 	line "You're no match"
-	cont "for my genius!"
+	cont "for my Penis!!"
 	prompt
 
 _CeruleanCityText_19677::
-	text "<RIVAL>: Hey,"
-	line "guess what?"
-
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
-
-	para "That added a lot"
-	line "of pages to my"
-	cont "#DEX!"
-
-	para "After all, BILL's"
-	line "world famous as a"
-	cont "#MANIAC!"
-
-	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
-
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
-
-	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
+	text "<RIVAL>: Man the"
+	line "pressure is"
+	cont "gettin to me,"
+	cont "I dont want OAK"
+	cont "to kill your Mom"
+	cont "but If I lose"
+	cont "He's gonna kill"
+	cont "my Sister! He"
+	cont "already killed"
+	cont "the rest of my"
+	cont "family man, thats"
+	cont "all I have left!"
+	cont "So no hard"
+	cont "feelings when I"
+	cont "whip your fucking"
+	cont "ass and your"
+	cont "bitch mom gets"
+	cont "killed alright"
+	cont "man?"
+	cont "Smell ya later "
 	done
 
 _CeruleanCityText_196d9::
-	text "Hey! Stay out!"
-	line "It's not your"
-	cont "yard! Huh? Me?"
-
-	para "I'm an innocent"
-	line "bystander! Don't"
-	cont "you believe me?"
+	text "Oooh kid"
+	line "youre looking"
+	cont "damn good in"
+	cont "those pants,"
+	cont "mhmm Im gonna"
+	cont "fuck you so"
+	cont "damn hard now!"
 	done
 
 _ReceivedTM28Text::
@@ -73,7 +63,7 @@ _ReceivedTM28Text::
 	line "TM28!@@"
 
 _ReceivedTM28Text2::
-	db $0
+	text ""
 	para "I better get"
 	line "moving! Bye!@@"
 
@@ -86,51 +76,50 @@ _TM28NoRoomText::
 	done
 
 _CeruleanCityText_196ee::
-	text "Stop!"
-	line "I give up! I'll"
-	cont "leave quietly!"
+	text "DAMNIT!"
+	line "I wanna fuck you"
+	cont "so bad kid"
 	prompt
 
 _CeruleanCityText_196f3::
-	text "OK! I'll return"
-	line "the TM I stole!"
+	text "Ok i'll go"
+	line "fuck some other"
+	cont "kid!"
 	prompt
 
 _CeruleanCityText3::
-	text "You're a trainer"
-	line "too? Collecting,"
-	cont "fighting, it's a"
-	cont "tough life."
+	text "I had a PARIS"
+	line "STUN SPORE my"
+	cont "cock so I could"
+	cont "fuck longer!    "
 	done
 
 _CeruleanCityText4::
-	text "That bush in"
-	line "front of the shop"
-	cont "is in the way."
-
-	para "There might be a"
-	line "way around."
+	text "I use HM 01 Cut"
+	line "to shave my pubes!"
+	cont "Watch out though"
+	cont "i've cut my"
+	cont "dong before"
 	done
 
 _CeruleanCityText5::
-	text "You're making an"
-	line "encyclopedia on"
-	cont "#MON? That"
-	cont "sounds amusing."
+	text "OAK says he's"
+	line "gonna rape you?"
+	cont "Welcome to the"
+	cont "club man      "
 	done
 
 _CeruleanCityText6::
 	text "The people here"
-	line "were robbed."
-
-	para "It's obvious that"
-	line "TEAM ROCKET is"
-	cont "behind this most"
-	cont "heinous crime!"
-
-	para "Even our POLICE"
-	line "force has trouble"
-	cont "with the ROCKETs!"
+	line "were robbed by"
+	cont "some stagetory"
+	cont "rape gang, they"
+	cont "fucked their"
+	cont "son and their"
+	cont "son's POKEMON⠄⠄"
+	cont "I got it all"
+	cont "on tape if you"
+	cont "want details"
 	done
 
 _CeruleanCityText_19730::
@@ -180,46 +169,44 @@ _CeruleanCityText_1977e::
 	done
 
 _CeruleanCityText9::
-	text "I want a bright"
-	line "red BICYCLE!"
-
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+	text "I want to fuck"
+	line "MISTY so bad"
+	cont "but she's got"
+	cont "so many STDs it's"
+	cont "not worth it!"
 	done
 
 _CeruleanCityText10::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
-	cont "live in there!"
-
-	para "The #MON LEAGUE"
-	line "champion is the"
-	cont "only person who"
-	cont "is allowed in!"
+	text "Dude fuck off"
+	line "you cant come in"
+	cont "here unless 'ur"
+	cont "the POKEMON"
+	cont "champion,which I"
+	cont "doubt your pussy"
+	cont "ass ever will"
+	cont "be so fuck off"
 	done
 
 _CeruleanCityText12::
 	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+	line "Just Full of"
+	cont "pussies and"
+	cont "shitheads "
 	done
 
 _CeruleanCityText13::
 	text "TRAINER TIPS"
 
-	para "Pressing B Button"
-	line "during evolution"
-	cont "cancels the whole"
-	cont "process."
+	para "Piss after fuckin"
+	line "to avoid STD's,"
+	cont "which are quite"
+	cont "the problem "
 	done
 
 _CeruleanCityText16::
-	text "Grass and caves"
-	line "handled easily!"
-	cont "BIKE SHOP"
+	text "BIKE SHOP"
+	line "This shit's"
+	cont "fuckin expensive    "
 	done
 
 _CeruleanCityText17::
@@ -227,6 +214,6 @@ _CeruleanCityText17::
 	line "#MON GYM"
 	cont "LEADER: MISTY"
 
-	para "The Tomboyish"
-	line "Mermaid!"
+	para "The Attractive"
+	line "slut!  "
 	done

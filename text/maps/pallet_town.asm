@@ -1,55 +1,52 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "OAK: Wait right"
+	line "there bitch @@"
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
-
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
-
-	para "Here, come with"
-	line "me!"
+	text "OAK:Where the"
+	line "fuck you think"
+	cont "you're goin?"
+	cont "You some kinda"
+	cont "tard?! Youre"
+	cont "just beggin me"
+	cont "to kill your"
+	cont "mom arent ya?"
+	cont "Come on"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
-
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	text "Im raising"
+	line "POKEMON to fuck"
+	cont "in front of"
+	cont "me so I can"
+	cont "jack off!   "
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
-
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	text "Watch out! KANTO"
+	line "is known for"
+	cont "having alot of"
+	cont "BONER GHOSTS!"
+	cont "They're ghosts"
+	cont "that rape ya"
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
+	text "BIG DICK"
 	line "RESEARCH LAB"
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "PALLETTOWN"
+	line "A big dick"
+	cont "ready to get"
+	cont "sucked"
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "<PLAYER>'s Crib  "
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "<RIVAL>'s Shit  "
 	done

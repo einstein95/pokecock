@@ -1,48 +1,45 @@
 _PewterCityText1::
 	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
-
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	line "LANCE THE DRAGON"
+	cont "TRAINER fucks"
+	cont "better then"
+	cont "anyone in the"
+	cont "whole world!         "
 	done
 
 _PewterCityText2::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
-
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	text "Hey man my"
+	line "POKEMON are Real"
+	cont "horny buy my ass"
+	cont "just can't handle"
+	cont "it anymore! Can"
+	cont "they fuck yours"
+	cont "for a bit? Ill"
+	cont "pay you"
 	done
 
 _PewterCityText_193f1::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "I only have one"
+	line "testicle :,( "
 	done
 
 _PewterCityText_193f6::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "Do you put Tampons"
+	line "in your butt man?       "
 	done
 
 _PewterCityText_193fb::
 	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	line "I thought"
+	cont "everyone did?   "
 	done
 
 _PewterCityText13::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "Well don't tell"
+	line "anyone I do, I'm"
+	cont "still tryin to"
+	cont "get the pussy"
+	cont "man, thanks son "
 	done
 
 _PewterCityText_19427::
@@ -52,48 +49,49 @@ _PewterCityText_19427::
 	done
 
 _PewterCityText_1942c::
-	text "That's right!"
-	line "It's hard work!"
+	text "Shut the fuck"
+	line "up you pussy!"
 	done
 
 _PewterCityText_19431::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "Im jacking off"
+	line "onto these"
+	cont "flowers for fun!      "
 	done
 
 _PewterCityText_1945d::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "Wanna see me dick?"
+	line "alright come this"
+	cont "way and get"
+	cont "ready for the"
+	cont "show! "
 	done
 
 _PewterCityText14::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "Yeah nice aint it?"
+	line "Just trimmed it up,"
+	cont "later!!"
 	done
 
 _PewterCityText6::
 	text "TRAINER TIPS"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "POKEMON earn EXP"
+	line "from hot sex Too!"
+	cont "So fuck them when"
+	cont "possible"
 	done
 
 _PewterCityText7::
 	text "NOTICE!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "New PRESIDENTIAL"
+	line "sex scandal!"
+	cont "Video of"
+	cont "PRESIDENT of"
+	cont "KANTO fucking"
+	cont "a CATERPIE was"
+	cont "live on TV! "
 	done
 
 _PewterCityText10::
@@ -106,12 +104,11 @@ _PewterCityText11::
 	line "#MON GYM"
 	cont "LEADER: BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "The Rock Hard"
+	line "Cock GYMLEADER"
 	done
 
 _PewterCityText12::
 	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	line "A small Shit Hole"
 	done

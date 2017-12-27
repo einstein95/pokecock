@@ -2649,7 +2649,7 @@ _CableClubNPCLinkClosedBecauseOfInactivityText::
 SECTION "Text 10", ROMX, BANK[TEXT_10]
 
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "Go suck a cock!!!!"
 	done
 
 _CableClubNPCMakingPreparationsText::
@@ -2676,12 +2676,12 @@ _CurrentTooFastText::
 
 _CyclingIsFunText::
 	text "Cycling is fun!"
-	line "Forget SURFing!"
+	line "Fuck SURFing!  "
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "That shit is"
+	line "fuckin bright!!!!!!!"
 	prompt
 
 _WarpToLastPokemonCenterText::
@@ -2740,15 +2740,15 @@ _SetToBoxText::
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
-
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
-
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	text "Sorry motha"
+	line "fucka your"
+	cont "POKEMON box"
+	cont "is full"
+	cont "fuckin"
+	cont "pissed?Well"
+	cont "eat a dick I"
+	cont "hope youre"
+	cont "catching MEWTWO        "
 	done
 
 INCLUDE "text/maps/pallet_town.asm"
@@ -2854,11 +2854,11 @@ _ThrewRockText::
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
-	line "FLUTE."
-
-	para "Now, that's a"
-	line "catchy tune!"
+	text "Played Back that"
+	line "ass up on"
+	cont "the #FLUTE⠄"
+	cont "     "
+	cont ""
 	prompt
 
 _FluteWokeUpText::
@@ -3020,22 +3020,22 @@ _GotOffBicycleText2::
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Fuck That "
 	line "@"
 	TX_RAM wcd6d
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "Toss this shitty"
 	line "@"
 	TX_RAM wcf4b
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "Don't be a fuckin"
+	line "dumbass!!!   "
 	prompt
 
 _AlreadyKnowsText::
@@ -3073,8 +3073,8 @@ _WannaTrade1Text::
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "Oh well..."
+	text "You"
+	line "Cocksucker  "
 	done
 
 _WrongMon1Text::
@@ -3111,8 +3111,8 @@ _WannaTrade2Text::
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Yeah well go eat"
+	line "a dick man "
 	done
 
 _WrongMon2Text::
@@ -3187,8 +3187,8 @@ _NothingToCutText::
 
 _UsedCutText::
 	TX_RAM wcd6d
-	text " hacked"
-	line "away with CUT!"
+	text " CUT that shit"
+	line "all up!"
 	prompt
 
 
