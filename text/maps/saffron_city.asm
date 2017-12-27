@@ -1,67 +1,73 @@
 _SaffronCityText1::
-	text "What do you want?"
-	line "Get lost!"
+	text "How bout some"
+	line "dickin kid?  "
 	done
 
 _SaffronCityText2::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "Come on man show"
+	line "me that dong!"
 	done
 
 _SaffronCityText3::
-	text "Get out of the"
-	line "way!"
+	text "Whatever fuck you  "
 	done
 
 _SaffronCityText4::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "I JUST WANT YOUNG"
+	line "ASS KID!     "
 	done
 
 _SaffronCityText5::
-	text "Being evil makes"
+	text "Kid Fuckin makes"
 	line "me feel so alive!"
 	done
 
 _SaffronCityText6::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "Fuck off you"
+	line "fucking pussy!   "
 	done
 
 _SaffronCityText7::
 	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
+	line "control,we can"
+	cont "fuck children"
 	cont "around the world!"
 	done
 
 _SaffronCityText8::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "You didnt get"
+	line "raped by TEAM"
+	cont "ROCKET?!"
+	line ""
+	line ""
+	line ""
+	line "T"
+	line "D"
+	line "T"
+	line ""
 	done
 
 _SaffronCityText9::
 	text "Yeah! TEAM ROCKET"
 	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	cont "The kids are safe"
+	cont "again! "
 	done
 
 _SaffronCityText10::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "Children should"
+	line "flock back to"
+	cont "SAFFRON now!    "
 	done
 
 _SaffronCityText11::
 	text "I flew here on my"
 	line "PIDGEOT when I"
-	cont "read about SILPH."
-
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	cont "hear kids were"
+	cont "getting fucked!"
+	cont "Did I miss"
+	cont "all the action?"
+	cont ":,( "
 	done
 
 _SaffronCityText12::
@@ -91,8 +97,9 @@ _SaffronCityText15::
 
 _SaffronCityText16::
 	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	line "Where people"
+	cont "come to be"
+	cont "Faggots "
 	done
 
 _SaffronCityText17::
@@ -104,32 +111,31 @@ _SaffronCityText18::
 	line "#MON GYM"
 	cont "LEADER: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "A PSYCHIC CUNT"
+	line "with a whip "
 	done
 
 _SaffronCityText20::
 	text "TRAINER TIPS"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
-
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "FULL HEAL is"
+	line "made from"
+	cont "HITMONLEE cocks"
+	cont "and GYRADOS"
+	cont "buttholes,"
+	cont "that's why its"
+	cont "so expensive        "
 	done
 
 _SaffronCityText21::
 	text "TRAINER TIPS"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
-
-	para "Try it on those"
-	line "hard-to-catch"
-	cont "#MON."
+	para "Try having a"
+	line "ALAKAZAM use"
+	cont "telekenisis to"
+	cont "jack you off!"
+	cont "It's better"
+	cont "than pussy!    "
 	done
 
 _SaffronCityText22::

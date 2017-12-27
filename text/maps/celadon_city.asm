@@ -1,42 +1,40 @@
 _CeladonCityText1::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
-
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	text "I've been known"
+	line "to fart in jars"
+	cont "and save them for"
+	cont "an entire"
+	cont "year before"
+	cont "sniffin"
 	done
 
 _CeladonCityText2::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "I'm jacking"
+	line "off to all these"
+	cont "women sonny!    "
 	done
 
 _CeladonCityText3::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "OAK fucked"
+	line "my son to death"
+	cont "one year ago⠄⠄⠄⠄"
 	done
 
 _CeladonCityText4::
-	text "Moan! I blew it"
-	line "all at the slots!"
-
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	text "Fuck i spent"
+	line "all my money on"
+	cont "the slots!Now"
+	cont "TEAM ROCKETs"
+	cont "gonna fuck my"
+	cont "kids! :,(      "
 	done
 
 _TM41PreText::
-	text "Hello, there!"
-
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
-
-	para "Here's a gift for"
-	line "dropping by!"
+	text "Dude get the fuck"
+	line "out my yard,I"
+	cont "Put that moat"
+	cont "there for a"
+	cont "fuckin reason,"
+	cont "just take this    "
 	prompt
 
 _ReceivedTM41Text::
@@ -46,14 +44,11 @@ _ReceivedTM41Text::
 	text "!@@"
 
 _TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
-
-	para "Only one #MON"
-	line "can use it!"
-
-	para "That #MON is"
-	line "CHANSEY!"
+	text "Now get the fuck"
+	line "out of here"
+	cont "before i call the"
+	cont "cops or beat"
+	cont "your ass    "
 	done
 
 _TM41NoRoomText::
@@ -62,12 +57,12 @@ _TM41NoRoomText::
 	done
 
 _CeladonCityText6::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
-
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	text "This POLIWRATH"
+	line "and I are married!"
+	cont "We lost our"
+	cont "virginity"
+	cont "together and"
+	cont "are deep in love"
 	done
 
 _CeladonCityText7::
@@ -75,8 +70,8 @@ _CeladonCityText7::
 	line "ribit!@@"
 
 _CeladonCityText8::
-	text "What are you"
-	line "staring at?"
+	text "Damn i like that"
+	line "ass⠄⠄⠄⠄"
 	done
 
 _CeladonCityText9::
@@ -85,25 +80,26 @@ _CeladonCityText9::
 	done
 
 _CeladonCityText10::
-	text "TRAINER TIPS"
+	text "WANTED:"
+	line "PROFFESOR OAK"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "CHARGES:"
+	line "RAPE,MURDER,"
+	cont "SADOMY,DRUG"
+	cont "TRAFFICING,SEX"
+	cont "SLAVES,TERRORISM"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
-
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "If seen don't"
+	line "try to apprehend,"
+	cont "get the fuck out"
+	cont "of there   "
+	line ""
 	done
 
 _CeladonCityText11::
 	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	line "Full of Fine"
+	cont "ass women    "
 	done
 
 _CeladonCityText13::
@@ -111,8 +107,8 @@ _CeladonCityText13::
 	line "#MON GYM"
 	cont "LEADER: ERIKA"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "One sexy"
+	line "little bitch!     "
 	done
 
 _CeladonCityText14::
@@ -128,15 +124,14 @@ _CeladonCityText15::
 _CeladonCityText16::
 	text "TRAINER TIPS"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
-
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Don't be a"
+	line "dumbass and only"
+	cont "have one POKEMON,"
+	cont "Also don't just"
+	cont "use one type of"
+	cont "POKEMON or"
+	cont "youre gonna lose"
+	cont "stupid  "
 	done
 
 _CeladonCityText17::

@@ -1,6 +1,6 @@
 _LavenderTownText_4413c::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Believe in"
+	line "BONER GHOSTS? "
 	done
 
 _LavenderTownText_44141::
@@ -9,38 +9,35 @@ _LavenderTownText_44141::
 	done
 
 _LavenderTownText_44146::
-	text "Hahaha, I guess"
-	line "not."
-
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	text "Well i got raped"
+	line "by one"
+	cont "one time so youre"
+	cont "a fucking dumbass,"
+	cont "douche "
 	done
 
 _LavenderTownText2::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
-
-	para "Memorial services"
-	line "are held in"
-	cont "#MON TOWER."
+	text "10 years ago"
+	line "A School Bus"
+	cont "of Retards were"
+	cont "raped to death,"
+	cont "now the place is"
+	cont "haunted!    "
 	done
 
 _LavenderTownText3::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
-
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	text "BONER GHOSTS"
+	line "are all over"
+	cont "POKEMON TOWER"
+	cont "and KANTO just"
+	cont "raping away, it's"
+	cont "fucked up man     "
 	done
 
 _LavenderTownText4::
 	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	line "KANTO's stinky"
+	cont "balls  "
 	done
 
 _LavenderTownText5::
@@ -58,7 +55,7 @@ _LavenderTownText8::
 	done
 
 _LavenderTownText9::
-	text "May the Souls of"
-	line "#MON Rest Easy"
+	text "Best place to"
+	line "Jack off ever!   "
 	cont "#MON TOWER"
 	done

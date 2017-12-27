@@ -2786,8 +2786,7 @@ _ItemUseBallText03::
 	prompt
 
 _ItemUseBallText04::
-	text "Shoot! It was so"
-	line "close too!"
+	text "MOTHER FUCKER!             "
 	prompt
 
 _ItemUseBallText05::

@@ -5,22 +5,23 @@ _CinnabarIslandText8::
 
 _CinnabarIslandText1::
 	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	line "BLAINE is known"
+	cont "for enjoying"
+	cont "3 ways, 2 men"
+	cont "one ZUBAT"
 	done
 
 _CinnabarIslandText2::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
+	text "Scientists jack"
+	line "off in the burned"
+	cont "down building"
+	cont "over there"
 	done
 
 _CinnabarIslandText3::
 	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	line "Earth's big"
+	cont "burning pussy        "
 	done
 
 _CinnabarIslandText6::
@@ -32,6 +33,7 @@ _CinnabarIslandText7::
 	line "#MON GYM"
 	cont "LEADER: BLAINE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "3 way"
+	line "extrordinare"
+	cont "and pimp"
 	done

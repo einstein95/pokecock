@@ -188,7 +188,7 @@ _CeruleanCityText10::
 	done
 
 _CeruleanCityText12::
-	text "CERULEAN CITY"
+	text "CERULEAN CITY:"
 	line "Just Full of"
 	cont "pussies and"
 	cont "shitheads "

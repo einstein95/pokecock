@@ -1,30 +1,29 @@
 _FuchsiaCityText1::
 	text "Did you try the"
-	line "SAFARI GAME? Some"
-	cont "#MON can only"
-	cont "be caught there."
+	line "SAFARI GAME? it's"
+	cont "pretty fuckin"
+	cont "sweet man!       "
 	done
 
 _FuchsiaCityText2::
-	text "SAFARI ZONE has a"
-	line "zoo in front of"
-	cont "the entrance."
-
-	para "Out back is the"
-	line "SAFARI GAME for"
-	cont "catching #MON."
+	text "Try not to fuck"
+	line "the POKEMON"
+	cont "in the SAFARI"
+	cont "ZONE too hard"
+	cont "man! They're"
+	cont "for everyone"
+	cont "to fuck!     "
 	done
 
 _FuchsiaCityText3::
-	text "ERIK: Where's"
-	line "SARA? I said I'd"
-	cont "meet her here."
+	text "ERIK:DUDE I DID"
+	line "IT! I FUCKED A"
+	cont "CHANSEY!!!!!"
 	done
 
 _FuchsiaCityText4::
-	text "That item ball in"
-	line "there is really a"
-	cont "#MON."
+	text "Man MACHAMPs get"
+	line "all the pussy :,(       "
 	done
 
 _FuchsiaCityText5::
@@ -32,14 +31,14 @@ _FuchsiaCityText5::
 	done
 
 _FuchsiaCityText11::
-	text "FUCHSIA CITY"
-	line "Behold! It's"
-	cont "Passion Pink!"
+	text "FUCHSIACITY"
+	line "The pussies are"
+	cont "dicks here"
 	done
 
 _FuchsiaCityText13::
 	text "SAFARI GAME"
-	line "#MON-U-CATCH!"
+	line "#MON-U-FUCK!!"
 	done
 
 _FuchsiaCityText16::
@@ -57,61 +56,66 @@ _FuchsiaCityText18::
 	line "#MON GYM"
 	cont "LEADER: KOGA"
 
-	para "The Poisonous"
-	line "Ninja Master"
+	para "The small dick"
+	line "douchebag  "
 	done
 
 _FuchsiaCityChanseyText::
 	text "Name: CHANSEY"
 
-	para "Catching one is"
-	line "all up to chance."
+	para "Almost impossible"
+	line "to fuck one    "
 	prompt
 
 _FuchsiaCityVoltorbText::
 	text "Name: VOLTORB"
 
-	para "The very image of"
-	line "a # BALL."
+	para "Make good anal"
+	line "beads"
+
+	para "    "
+	line "T"
 	prompt
 
 _FuchsiaCityKangaskhanText::
-	text "Name: KANGASKHAN"
+	text "Name:KANGASKHAN"
 
-	para "A maternal #MON"
-	line "that raises its"
-	cont "young in a pouch"
-	cont "on its belly."
+	para "Dont waste"
+	line "your time tryin"
+	cont "to fuck these"
+	cont "their pussies"
+	cont "are hard"
 	prompt
 
 _FuchsiaCitySlowpokeText::
 	text "Name: SLOWPOKE"
 
-	para "Friendly and very"
-	line "slow moving."
+	para "Don't move much"
+	line "during sex,lame"
 	prompt
 
 _FuchsiaCityLaprasText::
 	text "Name: LAPRAS"
 
-	para "A.K.A. the king"
-	line "of the seas."
+	para "Basically a"
+	line "boat to fuck on "
 	prompt
 
 _FuchsiaCityOmanyteText::
-	text "Name: OMANYTE"
+	text "Name:OMANYTE"
 
-	para "A #MON that"
-	line "was resurrected"
-	cont "from a fossil."
+	para "We defied god and"
+	line "brought this back"
+	cont "to fuck"
 	prompt
 
 _FuchsiaCityKabutoText::
 	text "Name: KABUTO"
 
-	para "A #MON that"
-	line "was resurrected"
-	cont "from a fossil."
+	para "Kabuto have"
+	line "3 assholes,"
+	cont "makes alot of"
+	cont "shit"
 	prompt
 
 _FuchsiaCityText_19b2a::

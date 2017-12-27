@@ -1,24 +1,23 @@
 _VermilionCityText1::
-	text "We're careful"
-	line "about pollution!"
-
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	text "Grimer are scared"
+	line "of Humans since"
+	cont "we started fuckin"
+	cont "them so much"
+	cont "lately!   "
 	done
 
 _VermilionCityText_198a7::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Did you get your"
+	line "dick sucked"
+	cont "on the SSANNE?"
 	done
 
 _VermilionCityText_198ac::
-	text "So, S.S.ANNE has"
+	text "So, S⠄S⠄ANNE has"
 	line "departed!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Now that was a"
+	line "Suck festival!!"
 	done
 
 _SSAnneWelcomeText4::
@@ -36,10 +35,10 @@ _SSAnneWelcomeText9::
 
 _SSAnneFlashedTicketText::
 	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	line "the S⠄S⠄TICKET"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Welcome to the"
+	line "suck festival"
 	done
 
 _SSAnneNoTicketText::
@@ -58,12 +57,11 @@ _SSAnneNotHereText::
 	done
 
 _VermilionCityText4::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
-
-	para "My #MON is"
-	line "tamping the land."
+	text "I'm just about"
+	line "to wrestle this"
+	cont "POKEMON in some"
+	cont "oil then fuck"
+	cont "it hard outside"
 	done
 
 _VermilionCityText5::
@@ -72,36 +70,36 @@ _VermilionCityText5::
 
 _VermilionCityText14::
 	text ""
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+
+	para "A MACHOP lubing"
+	line "up for the match!  "
 	done
 
 _VermilionCityText6::
-	text "S.S.ANNE is a"
+	text "S⠄S⠄ANNE is a"
 	line "famous luxury"
-	cont "cruise ship."
+	cont "cruise ship⠄"
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "We sail the"
+	line "world fucking!     "
 	done
 
 _VermilionCityText7::
 	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	line "A Pretty Fuckin"
+	cont "cool place   "
 	done
 
 _VermilionCityText8::
-	text "NOTICE!"
+	text "NOTICE"
 
 	para "ROUTE 12 may be"
 	line "blocked off by a"
-	cont "sleeping #MON."
+	cont "fat sack a shit"
 
 	para "Detour through"
 	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	cont "LAVENDER TOWN⠄"
 
 	para "VERMILION POLICE"
 	done
@@ -115,10 +113,10 @@ _VermilionCityText11::
 _VermilionCityText12::
 	text "VERMILION CITY"
 	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	cont "LEADER: LT⠄SURGE"
 
-	para "The Lightning "
-	line "American!"
+	para "One Bad"
+	line "Motherfucker!!! "
 	done
 
 _VermilionCityText13::
