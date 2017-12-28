@@ -1,18 +1,17 @@
 _CopycatsHouse1FText1::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "My daughter is a"
+	line "serious fuckin"
+	cont "freak man, dont"
+	cont "talk to her "
 	done
 
 _CopycatsHouse1FText2::
-	text "My daughter likes"
-	line "to mimic people."
-
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	text "They call my"
+	line "daughter COPYCAT"
+	cont "cause she mimcs"
+	cont "people, the whole"
+	cont "town fuckin hates"
+	cont "her bad      "
 	done
 
 _CopycatsHouse1FText3::

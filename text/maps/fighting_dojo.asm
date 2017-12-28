@@ -2,14 +2,14 @@ _FightingDojoText_5ce8e::
 	text "Grunt!"
 
 	para "I am the KARATE"
-	line "MASTER! I am the"
-	cont "LEADER here!"
+	line "MASTER!I am the"
+	cont "LEADER!"
 
-	para "You wish to"
-	line "challenge us?"
-	cont "Expect no mercy!"
-
-	para "Fwaaa!"
+	para "You ready for"
+	line "me to give your"
+	cont "asshole the"
+	cont "JACKIE CHAN?"
+	line ""
 	done
 
 _FightingDojoText_5ce93::
@@ -18,20 +18,19 @@ _FightingDojoText_5ce93::
 	prompt
 
 _FightingDojoText_5ce98::
-	text "Indeed, I have"
-	line "lost!"
+	text "Indeed,I have"
+	line "lost"
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+	para "But im not giving"
+	line "you my fuckin"
+	cont "badge you bitch!"
 
-	para "In return, I will"
-	line "give you a prized"
-	cont "fighting #MON!"
-
-	para "Choose whichever"
-	line "one you like!"
+	para "You can have one"
+	line "of these POKEMON"
+	cont "though,and if"
+	cont "you don't like"
+	cont "it then fuck off"
+	cont "and thats that"
 	done
 
 _FightingDojoText_5ce9d::
@@ -52,16 +51,14 @@ _FightingDojoEndBattleText1::
 	prompt
 
 _FightingDojoAfterBattleText1::
-	text "You wait 'til you"
-	line "see our Master!"
-
-	para "I'm a small fry"
-	line "compared to him!"
+	text "I just wanted a"
+	line "foot job from"
+	cont "you man! :,(                      "
 	done
 
 _FightingDojoBattleText2::
-	text "I hear you're"
-	line "good! Show me!"
+	text "I hear you can"
+	line "fuck!Show me"
 	done
 
 _FightingDojoEndBattleText2::
@@ -71,15 +68,14 @@ _FightingDojoEndBattleText2::
 
 _FightingDojoAfterBattleText2::
 	text "Our Master is a"
-	line "pro fighter!"
+	line "pro fucker!!"
 	done
 
 _FightingDojoBattleText3::
-	text "Nothing tough"
-	line "frightens me!"
-
-	para "I break boulders"
-	line "for training!"
+	text "I can clench my"
+	line "asshole and"
+	cont "break bricks and"
+	cont "boulders!    "
 	done
 
 _FightingDojoEndBattleText3::
@@ -90,15 +86,15 @@ _FightingDojoEndBattleText3::
 _FightingDojoAfterBattleText3::
 	text "The only thing"
 	line "that frightens us"
-	cont "is psychic power!"
+	cont "is black power!  "
 	done
 
 _FightingDojoBattleText4::
 	text "Hoohah!"
 
-	para "You're trespassing"
-	line "in our FIGHTING"
-	cont "DOJO!"
+	para "Ever been fucked"
+	line "by a KARATE"
+	cont "MASTER?!  "
 	done
 
 _FightingDojoEndBattleText4::
@@ -114,17 +110,17 @@ _FightingDojoAfterBattleText4::
 
 _WantHitmonleeText::
 	text "You want the"
-	line "hard kicking"
-	cont "HITMONLEE?"
+	line "ass kicking"
+	cont "HITMONLEE? "
 	done
 
 _WantHitmonchanText::
 	text "You want the"
-	line "piston punching"
-	cont "HITMONCHAN?"
+	line "pussy punching"
+	cont "HITMONCHAN? "
 	done
 
 _OtherHitmonText::
-	text "Better not get"
-	line "greedy..."
+	text "Only 1 you"
+	line "fuckin dick! "
 	done

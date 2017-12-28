@@ -1,7 +1,6 @@
 _Mansion1BattleText2::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "Who in the fuck"
+	line "are you? ya bitch          "
 	done
 
 _Mansion1EndBattleText2::
@@ -9,9 +8,9 @@ _Mansion1EndBattleText2::
 	prompt
 
 _Mansion1AfterBattleText2::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "A key? What the"
+	line "fuck are you"
+	cont "talking about? "
 	done
 
 _MansionSwitchText::

@@ -15,12 +15,12 @@ _ReceivedTM35Text::
 _TM35ExplanationText::
 	text "Tch-tch-tch!"
 	line "That's the sound"
-	cont "of a METRONOME!"
+	cont "of a METRONOME"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Your POKEMON"
+	line "uses a random"
+	cont "move if you just"
+	cont "don't give a shit"
 	done
 
 _TM35NoRoomText::
@@ -38,24 +38,21 @@ _Lab3Text3::
 	text "There's an e-mail"
 	line "message!"
 
-	para "..."
+	para "⠄⠄⠄"
 
 	para "The 3 legendary"
 	line "bird #MON are"
 	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	cont "and MOLTRES"
 
 	para "Their whereabouts"
-	line "are unknown."
+	line "are unknown⠄"
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
-
-	para "From: #MON"
-	line "RESEARCH TEAM"
-
-	para "..."
+	para "They have fucked"
+	line "many kids over"
+	cont "the years, over"
+	cont "130 reported"
+	cont "rapes this decade"
 	done
 
 _Lab3Text5::

@@ -1,12 +1,12 @@
 _KogaExplainToxicText::
 	text "When afflicted by"
 	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
-
-	para "It will surely"
-	line "terrorize foes!"
+	cont "are covered in"
+	cont "nasty jizz that"
+	cont "slowly kills"
+	cont "them!"
+	cont "Fwahahahaha"
+	cont "hahahahaha!"
 	done
 
 _FuchsiaGymText9::
@@ -31,7 +31,8 @@ _ReceivedTM06Text::
 	text "!@@"
 
 _TM06ExplanationText::
-	db $0
+	text ""
+
 	para "TM06 contains"
 	line "TOXIC!"
 
@@ -50,11 +51,12 @@ _FuchsiaGymBattleText1::
 	line "the key for"
 	cont "#MON!"
 
-	para "It's strategy!"
+	para "It's cum!"
 
 	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	line "splooge can beat"
+	cont "brute strength"
+	cont "anyday"
 	done
 
 _FuchsiaGymEndBattleText1::
@@ -63,14 +65,15 @@ _FuchsiaGymEndBattleText1::
 	prompt
 
 _FuchsiaGymAfterBattleText1::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "So you give"
+	line "females viagra?"
+	cont "GENIUS!"
+	cont "AMAZING! "
 	done
 
 _FuchsiaGymBattleText2::
 	text "I wanted to become"
-	line "a ninja, so I"
+	line "a nigga, so I"
 	cont "joined this GYM!"
 	done
 
@@ -82,34 +85,35 @@ _FuchsiaGymEndBattleText2::
 _FuchsiaGymAfterBattleText2::
 	text "I will keep on"
 	line "training under"
-	cont "KOGA, my ninja"
+	cont "KOGA, my nigga"
 	cont "master!"
 	done
 
 _FuchsiaGymBattleText3::
 	text "Let's see you"
 	line "beat my special"
-	cont "techniques!"
+	cont "queef move!"
 	done
 
 _FuchsiaGymEndBattleText3::
-	text "You"
-	line "had me fooled!"
+	text "You son of"
+	line "a bitch"
 	prompt
 
 _FuchsiaGymAfterBattleText3::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "Right before"
+	line "I cum i throw"
+	cont "a smoke bomb"
+	cont "and disapear!"
+	cont "          "
 	done
 
 _FuchsiaGymBattleText4::
 	text "Stop right there!"
 
 	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	line "cum walls pissing"
+	cont "you off?"
 	done
 
 _FuchsiaGymEndBattleText4::
@@ -123,17 +127,17 @@ _FuchsiaGymAfterBattleText4::
 
 	para "Look very closely"
 	line "for gaps in the"
-	cont "invisible walls!"
+	cont "cummy walls!    "
 	done
 
 _FuchsiaGymBattleText5::
 	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	line "way of the nigga"
+	cont "with master KOGA"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "Niggas have a long"
+	line "history of raping"
+	cont "animals"
 	done
 
 _FuchsiaGymEndBattleText5::
@@ -142,16 +146,16 @@ _FuchsiaGymEndBattleText5::
 
 _FuchsiaGymAfterBattleText5::
 	text "I still have much"
-	line "to learn!"
+	line "to fuck !"
 	done
 
 _FuchsiaGymBattleText6::
 	text "Master KOGA comes"
 	line "from a long line"
-	cont "of ninjas!"
+	cont "of niggas!"
 
-	para "What did you"
-	line "descend from?"
+	para "You a"
+	line "nigger lover?       "
 	done
 
 _FuchsiaGymEndBattleText6::
@@ -161,33 +165,32 @@ _FuchsiaGymEndBattleText6::
 
 _FuchsiaGymAfterBattleText6::
 	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
-
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	line "cum there is shit!"
+	cont "Cum and Shit!"
+	cont "Ying and Yang!"
+	cont "It's all life! "
 	done
 
 _FuchsiaGymText_7564e::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "FUCHSIA GYM is"
+	para "This is"
 	line "riddled with"
-	cont "invisible walls!"
+	cont "invisible walls"
+	cont "made of magic"
+	cont "cum"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
-
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "KOGA is king of"
+	line "the niggas and"
+	cont "usually uses"
+	cont "cum in battle"
+	cont "so i hope you"
+	cont "got a towel!"
 	done
 
 _FuchsiaGymText_75653::
 	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	line "niggas can be so"
+	cont "scary!    "
 	done

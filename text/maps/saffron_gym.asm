@@ -1,39 +1,38 @@
 _SaffronGymText_5d162::
-	text "I had a vision of"
-	line "your arrival!"
+	text "THATS RIGHT YOU"
+	line "CAUGHT ME"
+	cont "IM THE ONE HAVIN"
+	cont "THE ALAKAZAM RAPE"
+	cont "ALL OF KANTO"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "Why?"
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
-
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "Cause an"
+	line "ALAKAZAM raped me"
+	cont "as a child and"
+	cont "it really fucked"
+	cont "me up!So now im"
+	cont "a huge bitch!"
+	cont "Prepare fore"
+	cont "a rapin'"
 	done
 
 _SaffronGymText_5d167::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "Oh shit, you"
+	line "whipping my ass"
+	cont "made me realize"
+	cont "what a cunt I am!"
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "My Bad!     "
 
 	para "You earned the"
 	line "MARSHBADGE!@@"
 
 _SaffronGymText_5d16e::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "Everyone's been"
+	line "mind fucked"
+	cont "at least once"
+	cont "in their life  "
 	done
 
 _SaffronGymText_5d173::
@@ -41,17 +40,15 @@ _SaffronGymText_5d173::
 	line "makes #MON up"
 	cont "to L70 obey you!"
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
-
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
-
-	para "Wait, please take"
-	line "this TM with you!"
+	para "Everytime an"
+	line "ALAKAZAM raped"
+	cont "someone in town"
+	cont "i was in there"
+	cont "mind! Every"
+	cont "cumshot, every"
+	cont "butt bleed, every"
+	cont "pussy wussy, I"
+	cont "was there!      "
 	done
 
 ReceivedTM46Text::
@@ -59,11 +56,11 @@ ReceivedTM46Text::
 	line "TM46!@@"
 
 _TM46ExplanationText::
-	db $0
+	text ""
+
 	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	line "It's a real mind"
+	cont "fucker!                          "
 	done
 
 _TM46NoRoomText::
@@ -75,32 +72,30 @@ _SaffronGymText_5d1e6::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "SABRINA's #MON"
-	line "use psychic power"
-	cont "instead of force!"
+	para "You know them"
+	line "ALAKAZAM rapes"
+	cont "that have been"
+	cont "happenin around"
+	cont "KANTO lately?"
 
-	para "Fighting #MON"
-	line "are weak against"
-	cont "psychic #MON!"
-
-	para "They get creamed"
-	line "before they can"
-	cont "even aim a punch!"
+	para "Well Ive been"
+	line "seein lots of"
+	cont "ALAKAZAM"
+	cont "coming and going"
+	cont "through this gym!"
 	done
 
 _SaffronGymText_5d1eb::
-	text "Psychic power,"
-	line "huh?"
-
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	text "The ALAKAZAM"
+	line "raped even my"
+	cont "low level pooper"
+	cont ":,(                  "
 	done
 
 _SaffronGymBattleText1::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "Everyone wanna"
+	line "fuck SABRINA"
+	cont "but shes a prude!"
 	done
 
 _SaffronGymEndBattleText1::
@@ -109,19 +104,19 @@ _SaffronGymEndBattleText1::
 	prompt
 
 _SaffronGymAfterBattleText1::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
-
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	text "One guy said he"
+	line "fucked SABRINA"
+	cont "but then he got"
+	cont "gang raped and"
+	cont "murdered by a"
+	cont "bunch of"
+	cont "ALAKAZAM!            "
 	done
 
 _SaffronGymBattleText2::
-	text "Does our unseen"
-	line "power scare you?"
+	text "I was face"
+	line "fucked by 4"
+	cont "ALAKAZAM "
 	done
 
 _SaffronGymEndBattleText2::
@@ -130,18 +125,18 @@ _SaffronGymEndBattleText2::
 	prompt
 
 _SaffronGymAfterBattleText2::
-	text "Psychic #MON"
-	line "fear only ghosts"
-	cont "and bugs!"
+	text "They just showed"
+	line "up out of"
+	cont "nowhere!    "
 	done
 
 _SaffronGymBattleText3::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
-
-	para "Your #MON must"
-	line "be tough, then!"
+	text "You know,ive"
+	line "never seen"
+	cont "SABRINAS ALAKAZAM"
+	cont "and the rapist"
+	cont "ALAKAZAM in"
+	cont "one room"
 	done
 
 _SaffronGymEndBattleText3::
@@ -150,15 +145,16 @@ _SaffronGymEndBattleText3::
 	prompt
 
 _SaffronGymAfterBattleText3::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "Theres no way"
+	line "SABRINA's"
+	cont "ALAKAZAM rape!"
+	cont "Pfft"
 	done
 
 _SaffronGymBattleText4::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "They call me"
+	line "Mr⠄Taint, the"
+	cont "mother fuck"
 	done
 
 _SaffronGymEndBattleText4::
@@ -167,35 +163,31 @@ _SaffronGymEndBattleText4::
 	prompt
 
 _SaffronGymAfterBattleText4::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "Dont ask why"
+	line "they call me that                     "
 	done
 
 _SaffronGymBattleText5::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "You ever fuck in"
+	line "a gym before?  "
 	done
 
 _SaffronGymEndBattleText5::
-	text "I lost"
-	line "after all!"
+	text "So you want to?  "
 	prompt
 
 _SaffronGymAfterBattleText5::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "Why wont anyone"
+	line "in the building"
+	cont "fuck me? "
 	done
 
 _SaffronGymBattleText6::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
-
-	para "You won't reach"
-	line "her easily!"
+	text "SABRINA's pussy"
+	line "can read the"
+	cont "minds of cocks"
+	cont "It knows just how"
+	cont "to milkem"
 	done
 
 _SaffronGymEndBattleText6::
@@ -204,25 +196,21 @@ _SaffronGymEndBattleText6::
 	prompt
 
 _SaffronGymAfterBattleText6::
-	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
-
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	text "I was thinking to"
+	line "hard about"
+	cont "SABRINA's psychic"
+	cont "twat, everyone"
+	cont "thinks she's"
+	cont "prude but trust me"
+	cont "that pussy is"
+	cont "number 1!    "
 	done
 
 _SaffronGymBattleText7::
 	text "SAFFRON #MON"
 	line "GYM is famous for"
-	cont "its psychics!"
-
-	para "You want to see"
-	line "SABRINA!"
-	cont "I can tell!"
+	cont "Psychic hand jobs"
+	cont "and mind fucks!                 "
 	done
 
 _SaffronGymEndBattleText7::
@@ -232,5 +220,5 @@ _SaffronGymEndBattleText7::
 _SaffronGymAfterBattleText7::
 	text "That's right! I"
 	line "used telepathy to"
-	cont "read your mind!"
+	cont "make you cum!  "
 	done

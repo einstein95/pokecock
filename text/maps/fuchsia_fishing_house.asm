@@ -1,13 +1,10 @@
 _FuchsiaHouse3Text_561bd::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
-
-	para "I simply Looove"
-	line "fishing!"
-
-	para "Do you like to"
-	line "fish?"
+	text "I'd be down to"
+	line "give you a"
+	cont "fishing pole"
+	cont "if you fished on"
+	cont "my pole!"
+	cont "What do you say?!"
 	done
 
 _FuchsiaHouse3Text_561c2::
@@ -31,8 +28,8 @@ _FuchsiaHouse3Text_56217::
 	text "Hello there,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "How was my big ol"
+	line "boner?"
 	done
 
 _FuchsiaHouse3Text_5621c::

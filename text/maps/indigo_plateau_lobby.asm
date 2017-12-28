@@ -2,15 +2,15 @@ _IndigoPlateauLobbyText2::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "At #MON LEAGUE,"
-	line "you have to face"
-	cont "the ELITE FOUR in"
-	cont "succession."
-
-	para "If you lose, you"
-	line "have to start all"
-	cont "over again! This"
-	cont "is it! Go for it!"
+	para "The ELITE 4 are"
+	line "all some ruthless"
+	cont "fucks that don't"
+	cont "give a shit!"
+	cont "Watch your ass"
+	cont "holes and your"
+	cont "pussies in here"
+	cont "my man!Shit's"
+	cont "heavy here"
 	done
 
 _IndigoPlateauLobbyText3::

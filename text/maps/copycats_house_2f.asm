@@ -3,27 +3,25 @@ _CopycatsHouse2FText_5ccd4::
 	line "you like #MON?"
 
 	para "<PLAYER>: Uh no, I"
-	line "just asked you."
+	line "just asked you⠄"
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+	para "<PLAYER>: Your a"
+	line "fuckin cunt!"
 
 	para "COPYCAT: Hmm?"
 	line "Quit mimicking?"
 
-	para "But, that's my"
-	line "favorite hobby!"
+	para "Fuck you no"
+	line "way im quitting! "
 	prompt
 
 _TM31PreReceiveText::
-	text "Oh wow!"
+	text "Oh!"
 	line "A # DOLL!"
 
-	para "For me?"
-	line "Thank you!"
-
-	para "You can have"
-	line "this, then!"
+	para "My fuckin nigga!"
+	line "How bout a quick"
+	cont "booty fuck?  "
 	prompt
 
 _ReceivedTM31Text::
@@ -33,7 +31,8 @@ _ReceivedTM31Text::
 	text "!@@"
 
 _TM31ExplanationText1::
-	db $0
+	text ""
+
 	para "TM31 contains my"
 	line "favorite, MIMIC!"
 
@@ -46,12 +45,11 @@ _TM31ExplanationText2::
 
 	para "<PLAYER>: Pardon?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+	para "<PLAYER>: You're a"
+	line "dick eating slut!"
 
 	para "COPYCAT: You bet!"
-	line "It's a scream!"
+	line "It's a scream!             "
 	done
 
 _TM31NoRoomText::
@@ -80,13 +78,13 @@ _CopycatsHouse2FText6::
 	done
 
 _CopycatsHouse2FText_5cd17::
-	text "..."
+	text "⠄⠄⠄"
 
 	para "My Secrets!"
 
 	para "Skill: Mimicry!"
-	line "Hobby: Collecting"
-	cont "dolls!"
+	line "Hobby: Longest"
+	cont "queefs!  "
 	cont "Favorite #MON:"
 	cont "CLEFAIRY!"
 	done

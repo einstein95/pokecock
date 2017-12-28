@@ -5,12 +5,12 @@ _BlaineBattleText::
 	line "am the LEADER of"
 	cont "CINNABAR GYM!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
-
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "My POKEMON and"
+	line "I Like our"
+	cont "battles same as"
+	cont "our sex!"
+	cont "Hot!Burning!"
+	cont "and Fucked up!"
 	done
 
 _BlaineEndBattleText::
@@ -21,21 +21,20 @@ _BlaineEndBattleText::
 	line "the VOLCANOBADGE!@@"
 
 _BlaineFireBlastText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
-
-	para "Don't waste it on"
-	line "water #MON!"
+	text "FIRE BLAST is"
+	line "the ultimate sex"
+	cont "move!"
+	cont "It makes your"
+	cont "cum hot as lava!    "
 	done
 
 _BlaineBadgeText::
 	text "Hah!"
 
 	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	line "shows that you"
+	cont "really are that"
+	cont "nigga indeed! "
 
 	para "Here, you can"
 	line "have this too!"
@@ -48,16 +47,16 @@ _ReceivedTM38Text::
 	text "!@@"
 
 _TM38ExplanationText::
-	db $0
+	text ""
+
 	para "TM38 contains"
 	line "FIRE BLAST!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
-
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "Use it to"
+	line "deliver a sexual"
+	cont "experince your"
+	cont "partner will"
+	cont "never forget! "
 	done
 
 _TM38NoRoomText::
@@ -68,7 +67,7 @@ _TM38NoRoomText::
 _CinnabarGymText_7595f::
 	text "Do you know how"
 	line "hot #MON fire"
-	cont "breath can get?"
+	cont "cum can get?   "
 	done
 
 _CinnabarGymText_75964::
@@ -77,18 +76,18 @@ _CinnabarGymText_75964::
 	prompt
 
 _CinnabarGymText_75969::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
-
-	para "Blah, blah, blah,"
-	line "blah..."
+	text "I often cum"
+	line "in a pan for weeks"
+	cont "then boil it"
+	cont "on the stove and"
+	cont "chug it"
 	done
 
 _CinnabarGymText_75994::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "I used to fuck"
+	line "girls but pussy"
+	cont "eventually"
+	cont "gets old"
 	done
 
 _CinnabarGymText_75999::
@@ -98,8 +97,8 @@ _CinnabarGymText_75999::
 
 _CinnabarGymText_7599e::
 	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	line "fucking guys now"
+	cont "it's great! "
 	done
 
 _CinnabarGymText_759c9::
@@ -130,14 +129,14 @@ _CinnabarGymText_75a03::
 	prompt
 
 _CinnabarGymText_75a08::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "I'm a RETARD for"
+	line "using one type"
+	cont "of POKEMON  "
 	done
 
 _CinnabarGymText_75a33::
 	text "I know why BLAINE"
-	line "became a trainer!"
+	line "likes fire sex!  "
 	done
 
 _CinnabarGymText_75a38::
@@ -145,14 +144,14 @@ _CinnabarGymText_75a38::
 	prompt
 
 _CinnabarGymText_75a3d::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
-
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	text "When BLAINE was a"
+	line "boy a MOLTRES"
+	cont "picked him up"
+	cont "fucked him"
+	cont "then came in his"
+	cont "ass"
+	cont "Since then BLAINE"
+	cont "has loved fire! "
 	done
 
 _CinnabarGymText_75a68::
@@ -167,14 +166,14 @@ _CinnabarGymText_75a6d::
 	prompt
 
 _CinnabarGymText_75a72::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "Every one in here"
+	line "jacks off"
+	cont "together all day"
 	done
 
 _CinnabarGymText_75a9d::
-	text "Fire is weak"
-	line "against H2O!"
+	text "Cum doesn't put"
+	line "out fire! "
 	done
 
 _CinnabarGymText_75aa2::
@@ -183,24 +182,23 @@ _CinnabarGymText_75aa2::
 	prompt
 
 _CinnabarGymText_75aa7::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "Cum has a low"
+	line "boiling point"
+	cont "actually!      "
 	done
 
 _CinnabarGymText_75ac2::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
-
-	para "Douse his spirits"
-	line "with water!"
-
-	para "You better take"
-	line "some BURN HEALs!"
+	para "Everyone in this"
+	line "GYM is obsessed"
+	cont "with making their"
+	cont "CUM as hot as"
+	cont "possible!"
+	cont "So don't let"
+	cont "anyone cum on"
+	cont "you"
 	done
 
 _CinnabarGymText_75ac7::

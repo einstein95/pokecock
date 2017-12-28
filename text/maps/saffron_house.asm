@@ -12,8 +12,8 @@ _SaffronHouse1Text2::
 
 _SaffronHouse1Text3::
 	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	line "cute! I really"
+	cont "wanna fuck her!"
 	done
 
 _SaffronHouse1Text4::

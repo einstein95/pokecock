@@ -1,10 +1,10 @@
 _Lab1Text1::
 	text "We study #MON"
-	line "extensively here."
+	line "extensively here⠄"
 
-	para "People often bring"
-	line "us rare #MON"
-	cont "for examination."
+	para "Certain POKEMON"
+	line "just aren't able"
+	cont "to swallow CUM! "
 	done
 
 _Lab1Text2::

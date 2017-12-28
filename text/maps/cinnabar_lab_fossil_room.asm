@@ -1,14 +1,11 @@
 _Lab4Text_75dc6::
-	text "Hiya!"
-
-	para "I am important"
-	line "doctor!"
-
-	para "I study here rare"
-	line "#MON fossils!"
-
-	para "You! Have you a"
-	line "fossil for me?"
+	text "Nigga"
+	line "Bring me a fossil"
+	cont "and ill cheat god"
+	cont "and ressurect that"
+	cont "shit!"
+	cont "I just don't give"
+	cont "a fuck!"
 	prompt
 
 _Lab4Text_75dcb::
@@ -16,11 +13,10 @@ _Lab4Text_75dcb::
 	done
 
 _Lab4Text_75dd0::
-	text "I take a little"
-	line "time!"
-
-	para "You go for walk a"
-	line "little while!"
+	text "Walk out the"
+	line "building and"
+	cont "walk back then"
+	cont "ill be done!"
 	done
 
 _Lab4Text_75dd5::
@@ -45,13 +41,12 @@ _Lab4Text_610ae::
 	line "@"
 	TX_RAM wcf4b
 	text ", a"
-	cont "#MON that is"
+	line "#MON that is"
 	cont "already extinct!"
 
 	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	line "Machine will say"
+	cont "xFuck off GOD!x       "
 	done
 
 _Lab4Text_610b3::
